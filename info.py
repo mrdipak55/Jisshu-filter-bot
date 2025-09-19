@@ -64,8 +64,8 @@ REQUEST_CHANNEL = (
 MOVIE_UPDATE_CHANNEL = int(environ.get("MOVIE_UPDATE_CHANNEL", "-1002779552870"))
 
 # Added Link Here Not Id
-SUPPORT_CHAT = environ.get("SUPPORT_CHAT", "")
-MOVIE_GROUP_LINK = environ.get("MOVIE_GROUP_LINK", "")
+SUPPORT_CHAT = environ.get("SUPPORT_CHAT", "https://t.me/+D0swEqe_EqEwYzQ9")
+MOVIE_GROUP_LINK = environ.get("MOVIE_GROUP_LINK", "https://t.me/movies_foryour")
 
 # Verification
 IS_VERIFY = is_enabled("IS_VERIFY", True)
