@@ -117,10 +117,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n╔═══════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══════╗             
-    ᴍᴏᴠɪᴇs sᴇᴀʀᴄʜ ➥ @movies_foryour
-        ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ➥ @movies_4ug
-╚═══════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══════╝</b>"""
+    FILE_CAPTION = """<b>{file_name}</b>"""
 
     ALRT_TXT = """ᴡʜᴀᴛ ᴀʀᴇ ʏᴏᴜ sᴇᴀʀᴄʜɪɴɢ !?"""
 
@@ -448,4 +445,5 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://telegram.dog/JisshuDeveloperBot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://telegram.dog/im_jisshu">Z I Ƨ Ή Λ П ♡</a></b>"""
+
 
